@@ -9,6 +9,6 @@ import lombok.Getter;
 public class MyClass {
 
     @Getter
-    private String name;
+    private String name = "Bob";
     private String surname;
 }
