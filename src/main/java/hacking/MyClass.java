@@ -9,4 +9,5 @@ public class MyClass {
 
     @Getter
     private String name;
+    private String surname;
 }
