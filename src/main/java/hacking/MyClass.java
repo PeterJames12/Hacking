@@ -11,4 +11,8 @@ public class MyClass {
     @Getter
     private String name = "Bob1";
     private String surname;
+
+    private String getHand() {
+        return "handy";
+    }
 }
